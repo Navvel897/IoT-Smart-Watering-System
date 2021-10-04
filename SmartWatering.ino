@@ -1,3 +1,6 @@
+// Welcome to the IoT smart watering system 
+// sensor reqruiement = YL-69,Relay,mini water pump,NodeMCU 
+// this porject is for NodeMCU 
 int sensorPin = A0;
 int sensorValue;
 int limit = 700;
